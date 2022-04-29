@@ -6,7 +6,7 @@ S a m
 
 I am a student at new arts commerce and science college and i am really interested in coding and programming stuff so i stated learning and spend like 2 years in coding and Here it is what i have learned and some projects i have done 😇 I hope you Enjoy seeing my projects.
 
-* 🌍  I'm based in India Maharashatra Wardha 402001
+* 🌍  I'm based in India Maharashatra Wardha 442001
 * 🖥️  See my portfolio at [Coming Soon 😅](http://samthool.github.io)
 * ✉️  You can contact me at [samthool@outlook.com](mailto:samthool@outlook.com)
 * 🧠  I'm learning Advance Backend
