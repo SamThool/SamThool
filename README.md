@@ -9,7 +9,7 @@ I am a student at new arts commerce and science college and i am really interest
 * 🌍  I'm based in India Maharashatra Wardha 442001
 * 🖥️  See my portfolio at [Coming Soon 😅](http://samthool.github.io)
 * ✉️  You can contact me at [samthool@outlook.com](mailto:samthool@outlook.com)
-* 🧠  I'm learning Advance Backend
+* 🧠  I'm currently learning Advance Backend
 * 🤝  I'm open to collaborating on Any kind of web Projects
 
 ### Skills
