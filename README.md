@@ -7,12 +7,12 @@ S a m
 I am a student at new arts commerce and science college and i am really interested in coding and programming stuff so i stated learning and spend like 2 years in coding and Here it is what i have learned and some projects i have done 😇 I hope you Enjoy seeing my projects.
 
 * 🌍  I'm based in India Maharashatra Wardha 442001
-* 🖥️  See my portfolio at [Coming Soon 😅](http://samthool.github.io)
+* 🖥️  See my portfolio at [ samthool102002.onrender.com ](https://samthool102002.onrender.com)
 * ✉️  You can contact me at [samthool@outlook.com](mailto:samthool@outlook.com)
 * 🧠  I'm currently learning Advance Backend
 * 🤝  I'm open to collaborating on Any kind of web Projects
-* 🌎  https://weatherappusingapi.herokuapp.com/
-* 🌏  https://netflix8.herokuapp.com/
+* 🌎  [https://uninterested-top-coat-ant.cyclic.app/](https://uninterested-top-coat-ant.cyclic.app/)
+* 🌏  [[https://netflix8.herokuapp.com/](https://creepy-blue-pullover.cyclic.app/)](https://creepy-blue-pullover.cyclic.app/)
 * 🌏  https://samthool.github.io/
 
 ### Skills
